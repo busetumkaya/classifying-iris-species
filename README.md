@@ -1,19 +1,19 @@
-## Classifying Iris Species
+# Classifying Iris Species
 
-# Objective:
+## Objective:
 This project applies machine learning techniques to classify Iris flower species using the famous Iris dataset. It follows the approach from Introduction to Machine Learning with Python by Andreas C. Müller and Sarah Guido.
 
-# Dataset:
+## Dataset:
 - Iris Dataset from sklearn.datasets.load_iris()
 - Features: Sepal length, Sepal width, Petal length, Petal width
 - Target: Iris Setosa, Iris Versicolor, Iris Virginica
 
-# Tools & Libraries:
+## Tools & Libraries:
 - Python, Pandas, NumPy
 - Scikit-Learn (train_test_split, KNeighborsClassifier)
 - Matplotlib & Seaborn for visualization
 
-# Key Findings:
+## Key Findings:
 
 - Explored the dataset using summary statistics and scatter plots
 - Implemented K-Nearest Neighbors (KNN) classification
